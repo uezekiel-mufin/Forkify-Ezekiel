@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "fractional-arithmetic": "^1.2.3",
+    "leaflet": "^1.7.1",
+    "lodash-es": "^4.17.21"
+  }
+}
